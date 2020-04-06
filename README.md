@@ -2,7 +2,7 @@ Technorip
 =========
 This was a private repo created for our first product in Technorip 
 Semi-Autonomous Asset management robot for logistics and resource management (2012 - 2013)
->> Using Mechatronics Hardware, RF optimisations, controllers, embedded program and Machine learning based triangulation algorithms
+>> Using Mechatronics Hardware, RF optimisations, controllers, embedded program and Machine learning based collision detection and indoor mapping and triangulation algorithms 
 
 #currently codes are not public
 #Project is not active 
